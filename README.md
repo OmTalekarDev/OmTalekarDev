@@ -4,10 +4,9 @@
 
 ### 💻 BSc Computer Science Student • Python Developer • AI & Linux Enthusiast
 
-I like learning by building from AI assistants and automation tools to databases, Linux setups, and practical software projects.
+I like learning by building — from AI assistants and automation tools to databases, Linux setups, and practical software projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-BlockZGaming-181717?style=for-the-badge&logo=github)](https://github.com/BlockZGaming)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
 
@@ -16,48 +15,73 @@ I like learning by building from AI assistants and automation tools to databases
 ## 🚀 About Me
 
 - 🎓 BSc Computer Science student
-- 🤖 Building **Ari**, a Python-based AI voice assistant
-- 🐍 Currently focusing on **Python, SQL, Git/GitHub and AI/ML**
-- 🐧 Exploring **Linux, Arch Linux, Hyprland and system customization**
-- 🗄️ Building database projects with **MySQL / SQL**
-- 🌱 Learning by creating practical projects instead of only following tutorials
-- 🤝 Interested in collaborating on beginner-friendly **Open Source, Python and AI projects**
-- ⚡ Fun fact: I enjoy experimenting with technology and building things from scratch
+- 🤖 Building **Ari**, a local-first Python AI voice assistant
+- 🐍 Learning and building with **Python**
+- 🗄️ Practicing **SQL, MySQL and DBMS concepts**
+- 🐧 Exploring **Linux, Arch Linux, Hyprland and Bash automation**
+- 🌱 Learning by building practical projects
+- ⚡ I enjoy experimenting with technology and turning ideas into working projects
 
 ---
 
-## 🧠 What I'm Building
+## ⭐ Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **[Ari AI Assistant](https://github.com/BlockZGaming/Ari-AI-Assistant)** | Local-first voice assistant with speech recognition, command handling and optional OCR | Python • Faster-Whisper • SoundDevice • Tesseract |
-| 🗄️ **SQL / DBMS Projects** | Learning relational databases, queries, CRUD operations and database design | MySQL • SQL |
-| 🐍 **Python Projects** | Small programs and experiments while building my Python fundamentals | Python |
-| 🐧 **Linux Experiments** | Custom Linux environment, terminal workflows and system configuration | Arch Linux • Hyprland • Bash |
+### 🤖 [Ari AI Assistant](https://github.com/BlockZGaming/Ari-AI-Assistant)
+**Local-first AI voice assistant built with Python.**
 
-> 🚧 More projects are being built and will be added here as they become ready.
+Speech recognition with Faster-Whisper, command handling, microphone input and optional OCR capabilities.
+
+`Python` `Faster-Whisper` `SoundDevice` `Tesseract OCR`
+
+---
+
+### 🗄️ [Pokémon Database](https://github.com/BlockZGaming/pokemon-database)
+**MySQL database project for practicing real-world SQL and DBMS concepts.**
+
+Includes relational schema design, primary and foreign keys, CRUD operations, joins, filtering, sorting, aggregation and many-to-many relationships.
+
+`MySQL` `SQL` `DBMS` `Database Design`
+
+---
+
+### 🐍 [Python Toolkit](https://github.com/BlockZGaming/python-toolkit)
+**Practical command-line toolkit built with Python.**
+
+Includes utilities for calculations, password generation, file organization, text statistics and system information.
+
+`Python` `CLI` `Automation` `File Handling`
+
+---
+
+### 🐧 [Linux Toolkit](https://github.com/BlockZGaming/linux-toolkit)
+**Bash-based Linux system administration and automation toolkit.**
+
+Includes system information, disk usage, backups, package updates and cleanup utilities.
+
+`Linux` `Bash` `Shell Scripting` `Automation`
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### AI / ML
+
 ![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-Tesseract-5C2D91?style=for-the-badge)
 
@@ -65,13 +89,13 @@ I like learning by building from AI assistants and automation tools to databases
 
 ## 🏆 Achievements & Milestones
 
-- 🚀 Created and published my first public AI project — **Ari AI Assistant**
-- 🐍 Building hands-on Python development experience
-- 🗄️ Developing practical SQL / DBMS projects
-- 🐧 Learning Linux and open-source tooling
-- 🔧 Practicing Git and GitHub project workflows
+- 🚀 Published **Ari AI Assistant** as a public project
+- 🗄️ Built a relational MySQL database project
+- 🐍 Created a modular Python CLI application
+- 🐧 Built a Bash-based Linux automation toolkit
+- 🔧 Practicing Git and GitHub workflows
 
-> This section will grow with real certifications, hackathons, contributions and other achievements.
+> More achievements will be added as I complete certifications, hackathons, open-source contributions and larger projects.
 
 ---
 
@@ -89,22 +113,22 @@ I like learning by building from AI assistants and automation tools to databases
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Currently Learning
 
 ```text
 Python        ███████████░░░  Building projects
 SQL / DBMS    ██████████░░░░  Improving database skills
-Git / GitHub  ████████░░░░░░  Learning project workflows
-Linux         ████████░░░░░░  Exploring & customizing
+Git / GitHub  ████████░░░░░░  Project workflows
+Linux / Bash  ████████░░░░░░  Automation & system tools
 AI / ML       ██████░░░░░░░░  Learning & experimenting
 ```
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 💻 GitHub: **[BlockZGaming](https://github.com/BlockZGaming)**
-- 💼 LinkedIn:
+- 💻 GitHub: [**BlockZGaming**](https://github.com/BlockZGaming)
+- 💼 LinkedIn: Add your profile when ready
 
 ---
 
