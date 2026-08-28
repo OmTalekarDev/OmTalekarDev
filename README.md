@@ -4,7 +4,7 @@
 
 ### 💻 BSc Computer Science Student • Python Developer • AI & Linux Enthusiast
 
-I like learning by building — from AI assistants and automation tools to databases, Linux setups, and practical software projects.
+I like learning by building from AI assistants and automation tools to databases, Linux setups, and practical software projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-OmTalekarDev-181717?style=for-the-badge&logo=github)](https://github.com/OmTalekarDev)
 
