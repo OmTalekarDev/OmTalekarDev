@@ -6,7 +6,7 @@
 
 I like learning by building — from AI assistants and automation tools to databases, Linux setups, and practical software projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-BlockZGaming-181717?style=for-the-badge&logo=github)](https://github.com/BlockZGaming)
+[![GitHub](https://img.shields.io/badge/GitHub-OmTalekarDev-181717?style=for-the-badge&logo=github)](https://github.com/OmTalekarDev)
 
 </div>
 
@@ -26,7 +26,7 @@ I like learning by building — from AI assistants and automation tools to datab
 
 ## ⭐ Featured Projects
 
-### 🤖 [Ari AI Assistant](https://github.com/BlockZGaming/Ari-AI-Assistant)
+### 🤖 [Ari AI Assistant](https://github.com/OmTalekarDev/Ari-AI-Assistant)
 **Local-first AI voice assistant built with Python.**
 
 Speech recognition with Faster-Whisper, command handling, microphone input and optional OCR capabilities.
@@ -35,7 +35,7 @@ Speech recognition with Faster-Whisper, command handling, microphone input and o
 
 ---
 
-### 🗄️ [Pokémon Database](https://github.com/BlockZGaming/pokemon-database)
+### 🗄️ [Pokémon Database](https://github.com/OmTalekarDev/pokemon-database)
 **MySQL database project for practicing real-world SQL and DBMS concepts.**
 
 Includes relational schema design, primary and foreign keys, CRUD operations, joins, filtering, sorting, aggregation and many-to-many relationships.
@@ -44,7 +44,7 @@ Includes relational schema design, primary and foreign keys, CRUD operations, jo
 
 ---
 
-### 🐍 [Python Toolkit](https://github.com/BlockZGaming/python-toolkit)
+### 🐍 [Python Toolkit](https://github.com/OmTalekarDev/python-toolkit)
 **Practical command-line toolkit built with Python.**
 
 Includes utilities for calculations, password generation, file organization, text statistics and system information.
@@ -53,7 +53,7 @@ Includes utilities for calculations, password generation, file organization, tex
 
 ---
 
-### 🐧 [Linux Toolkit](https://github.com/BlockZGaming/linux-toolkit)
+### 🐧 [Linux Toolkit](https://github.com/OmTalekarDev/linux-toolkit)
 **Bash-based Linux system administration and automation toolkit.**
 
 Includes system information, disk usage, backups, package updates and cleanup utilities.
@@ -103,11 +103,11 @@ Includes system information, disk usage, backups, package updates and cleanup ut
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlockZGaming&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmTalekarDev&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BlockZGaming&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=OmTalekarDev&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockZGaming&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmTalekarDev&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -127,7 +127,7 @@ AI / ML       ██████░░░░░░░░  Learning & experimenti
 
 ## 📫 Connect
 
-- 💻 GitHub: [**BlockZGaming**](https://github.com/BlockZGaming)
+- 💻 GitHub: [**OmTalekarDev**](https://github.com/OmTalekarDev)
 - 💼 LinkedIn: Add your profile when ready
 
 ---
@@ -136,6 +136,6 @@ AI / ML       ██████░░░░░░░░  Learning & experimenti
 
 ### ⚡ Learn. Build. Break. Fix. Repeat.
 
-![Profile Views](https://komarev.com/ghpvc/?username=BlockZGaming&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=OmTalekarDev&style=for-the-badge&color=blueviolet)
 
 </div>
