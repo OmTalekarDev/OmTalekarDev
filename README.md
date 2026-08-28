@@ -1,28 +1,117 @@
-# 💫 About Me:
-🛠️ I’m currently working on AI and Python projects<br>👥 I’m looking to collaborate on Open Source & AI/ML projects<br>🤝 I’m looking for help with building and improving real-world software projects<br>🌱 I’m currently learning Python, SQL, Linux, Git/GitHub & AI/ML<br>💬 Ask me about Python, SQL, Linux, GitHub & AI<br>⚡ Fun fact: I enjoy experimenting with technology and building things from scratch
+<div align="center">
 
+# 👋 Hey, I'm Om Talekar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Om Talekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omtalekar146@gmail.com) 
+### 💻 BSc Computer Science Student • Python Developer • AI & Linux Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BlockZGaming&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=BlockZGaming&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BlockZGaming&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I like learning by building — from AI assistants and automation tools to databases, Linux setups, and practical software projects.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BlockZGaming&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-BlockZGaming-181717?style=for-the-badge&logo=github)](https://github.com/BlockZGaming)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BlockZGaming&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=BlockZGaming&icon=1&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
+- 🎓 BSc Computer Science student
+- 🤖 Building **Ari**, a Python-based AI voice assistant
+- 🐍 Currently focusing on **Python, SQL, Git/GitHub and AI/ML**
+- 🐧 Exploring **Linux, Arch Linux, Hyprland and system customization**
+- 🗄️ Building database projects with **MySQL / SQL**
+- 🌱 Learning by creating practical projects instead of only following tutorials
+- 🤝 Interested in collaborating on beginner-friendly **Open Source, Python and AI projects**
+- ⚡ Fun fact: I enjoy experimenting with technology and building things from scratch
+
+---
+
+## 🧠 What I'm Building
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **[Ari AI Assistant](https://github.com/BlockZGaming/Ari-AI-Assistant)** | Local-first voice assistant with speech recognition, command handling and optional OCR | Python • Faster-Whisper • SoundDevice • Tesseract |
+| 🗄️ **SQL / DBMS Projects** | Learning relational databases, queries, CRUD operations and database design | MySQL • SQL |
+| 🐍 **Python Projects** | Small programs and experiments while building my Python fundamentals | Python |
+| 🐧 **Linux Experiments** | Custom Linux environment, terminal workflows and system configuration | Arch Linux • Hyprland • Bash |
+
+> 🚧 More projects are being built and will be added here as they become ready.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### AI / ML
+![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-Tesseract-5C2D91?style=for-the-badge)
+
+---
+
+## 🏆 Achievements & Milestones
+
+- 🚀 Created and published my first public AI project — **Ari AI Assistant**
+- 🐍 Building hands-on Python development experience
+- 🗄️ Developing practical SQL / DBMS projects
+- 🐧 Learning Linux and open-source tooling
+- 🔧 Practicing Git and GitHub project workflows
+
+> This section will grow with real certifications, hackathons, contributions and other achievements.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlockZGaming&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BlockZGaming&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockZGaming&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+```text
+Python        ███████████░░░  Building projects
+SQL / DBMS    ██████████░░░░  Improving database skills
+Git / GitHub  ████████░░░░░░  Learning project workflows
+Linux         ████████░░░░░░  Exploring & customizing
+AI / ML       ██████░░░░░░░░  Learning & experimenting
+```
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: **[BlockZGaming](https://github.com/BlockZGaming)**
+- 💼 LinkedIn: **Add your real LinkedIn profile here**
+
+---
+
+<div align="center">
+
+### ⚡ Learn. Build. Break. Fix. Repeat.
+
+![Profile Views](https://komarev.com/ghpvc/?username=BlockZGaming&style=for-the-badge&color=blueviolet)
+
+</div>
