@@ -7,6 +7,7 @@
 **Building practical projects while learning Python, AI, SQL, Linux & software development.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-OmTalekarDev-181717?style=for-the-badge&logo=github)](https://github.com/OmTalekarDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=OmTalekarDev&style=for-the-badge)](https://github.com/OmTalekarDev)
 
 </div>
 
@@ -59,15 +60,18 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmTalekarDev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Profile-OmTalekarDev-181717?style=for-the-badge&logo=github)](https://github.com/OmTalekarDev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmTalekarDev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+[![Repositories](https://img.shields.io/badge/Public%20Projects-4-2ea44f?style=for-the-badge)](https://github.com/OmTalekarDev?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-14-f1c40f?style=for-the-badge&logo=github)](https://github.com/OmTalekarDev?tab=stars)
 
 </div>
+
+> 💡 Check my GitHub profile for the live contribution graph and latest activity.
 
 ---
 
@@ -89,7 +93,7 @@ AI / ML       ██████░░░░░░░░  Experimenting & buildi
 - 🗄️ Built a relational MySQL database project
 - 🐍 Created a modular Python CLI toolkit
 - 🐧 Created a Linux/Bash automation toolkit
-- 🔧 Building a consistent public GitHub portfolio
+- ⭐ Built a growing public GitHub portfolio
 
 > More achievements will be added as they are genuinely earned through projects, certifications, hackathons and open-source contributions.
 
@@ -105,7 +109,5 @@ AI / ML       ██████░░░░░░░░  Experimenting & buildi
 <div align="center">
 
 ### ⚡ Learn • Build • Break • Fix • Repeat
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmTalekarDev&style=for-the-badge)
 
 </div>
