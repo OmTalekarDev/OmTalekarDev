@@ -104,7 +104,7 @@ AI / ML       ██████░░░░░░░░  Learning & experimenti
 ## 📫 Connect With Me
 
 - 💻 GitHub: **[BlockZGaming](https://github.com/BlockZGaming)**
-- 💼 LinkedIn: **Add your real LinkedIn profile here**
+- 💼 LinkedIn:
 
 ---
 
